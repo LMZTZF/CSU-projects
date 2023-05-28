@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Plant Interactive Robot
-author: [xuan22222]
-category: [Lecture]
-tags: [jekyll, ai]
+title: 咖啡能源
+author: [王稄民 黃士誌 李宥晟]
+category: [再生能源]
+tags: [環保]
 ---
 
 咖啡能源
@@ -30,46 +30,41 @@ tags: [jekyll, ai]
 ---
 ### 設計考量與相關技術
 **系統設計考量：**<br>
+能源效率：咖啡能源系統應該被設計成具有高能源效率，以最小化能源浪費。這可以通過使用高效能的設備和技術，例如節能咖啡機、高效能熱能轉換裝置等來實現。
 
+可再生能源：考慮使用可再生能源來供應咖啡能源，例如太陽能、風能或生物能源。這有助於減少對傳統能源來源的依賴，同時降低對環境的負擔。
+
+減少碳足跡：碳排放是造成氣候變化的主要原因之一，因此在咖啡能源設計中應該努力減少碳足跡。這可以通過採用低碳技術和使用清潔能源來實現，同時減少能源消耗和碳排放。
+
+循環利用能源：設計咖啡能源系統時，可以考慮利用咖啡製程中產生的副產品或廢棄物，例如咖啡渣，轉化為能源資源。這樣可以最大程度地利用資源，同時減少廢棄物的產生。
+
+可持續性：設計咖啡能源系統時應該考慮到長期的可持續性。這包括確保能源供應的穩定性和可靠性，並且咖啡能源系統的運作不會對環境造成嚴重的衝擊。同時，系統的維護和保養應該是可持續的，以確保長期的效能和效益。
 
 **所需相關技術：**<br>
-1. 植物ECG感測
+太陽能技術：太陽能是一種可再生能源，可以用於咖啡能源系統的供電。這包括使用太陽能電池板來捕捉陽光並轉換為電能，以供應咖啡機和其他相關設備的電力需求。
 
----
-### 系統方塊圖
-![](https://github.com/rkuo2023/CSU-projects/blob/main/images/plant-interactive-robot-block-diagram.png?raw=true)
+生物能源技術：生物能源是從有機物質中提取能源的過程，可以用於發電或供熱。在咖啡能源系統中，可考慮使用生物能源來產生熱能，例如利用咖啡渣或其他有機廢棄物進行氣化或消化，以產生燃氣或生物燃料。
 
----
-### 概念驗證
-1. 驗證感測器: ECG + 盆栽
-![](https://gcs.rimg.com.tw/g1/f/ea/df/21735007993567_946.jpg)
+熱能轉換技術：咖啡能源系統中的熱能轉換技術可以將咖啡製程中產生的熱能轉換為其他有用形式的能源。例如，熱能回收系統可以將咖啡機排放的熱能回收並轉換為供暖或熱水使用。
 
----
-### 開發進度與展示
+節能技術：在咖啡能源系統中，節能技術是重要的一環。這包括使用節能型咖啡機和設備，優化能源使用效率，減少能源浪費。同時，可採用自動化控制系統，根據需求調節能源的使用，避免不必要的能源消耗。
 
+儲能技術：儲能技術在咖啡能源系統中起到關鍵作用，以平衡能源供應和需求之間的差異。這包括使用電池儲能系統來存儲太陽能或其他可再生能源的電力，並在需要時提供能源供應。
+
+數據監測和優化技術：使用數據監測和優化技術可以幫助管理和最大化咖啡能源系統的效能。這包括監測能源使用情況、優化能源分配和預測能源需求，以實現能源的有效管理和使用。
+
+--- 
 
 ---
 ## 參考資料:
 
-### [空靈鼓](https://www.ruten.com.tw/item/show?22233080228451)
-<iframe width="885" height="498" src="https://www.youtube.com/embed/s2KK1kNvm5A" title="空靈鼓～《天空之城》1小時無廣告音樂" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### https://www.futuretech.org.tw/futuretech/index.php?action=product_detail&prod_no=P0008700003751
 
-### [籐球燈](https://www.ruten.com.tw/item/show?22011338130857)
-![](https://gcs.rimg.com.tw/g1/2/41/a9/22011338130857_504.jpg)
+### https://www.seinsights.asia/article/5222
 
-### [拇指琴/卡林巴琴](https://www.ruten.com.tw/item/show?22040555968006)
-![](https://gcs.rimg.com.tw/g2/3/66/06/22040555968006_595.jpg)
+### https://news.tvbs.com.tw/focus/1629161
 
-### [植物的反撲？藝術家讓植栽控制握有砍刀的機械手臂](https://www.inside.com.tw/article/29190-david-bowen-plant-machete)
-![](https://bucket-img.tnlmedia.com/cabinet/files/consoles/1/teams/1/2022/10/obydgBehbWnS8zBugUisQ1OhrtG2VF2CSk0KZIIY.png?auto=compress&fit=max&w=730)
-
----
-### [AD8232心電脈搏測量套件](https://www.ruten.com.tw/item/show?21735007993567)
-![](https://gcs.rimg.com.tw/g1/f/ea/df/21735007993567_946.jpg)
-
----
-### [ECG EMG EKG SHIELD 肌電心電擴展板 肌肉電EMG傳感器](https://www.ruten.com.tw/item/show?22025708084200)
-![](https://gcs.rimg.com.tw/g2/a/73/e8/22025708084200_750.jpg)
+### https://www.thenewslens.com/article/29795
 
 
 <br />
